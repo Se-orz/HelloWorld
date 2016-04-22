@@ -4,7 +4,7 @@
     overflow: hidden;
 }
 
-.wrap .item {
+.wrap .item{
     position: relative;
     float: left;
     margin-left: -10px;
